@@ -5,4 +5,5 @@ Ditch your boredom by watching any random video snippet from your collection wit
 
 Note: The episodes must previously be downloaded in the local machine.
 
->Download Big Files From Internet [Programming Style]: [Check this One!](https://github.com/noviicee/Download-Files)
+>Download Big Files From Internet: [Check this One!](https://github.com/noviicee/Download-Files)
+>Play Crossword Game: [Check here](https://github.com/noviicee/Crossword-Game)
