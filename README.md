@@ -1,8 +1,8 @@
 # Random-Episode-Playlist
-Sometimes we want to play any random episodes of a web series, or maybe any random snippet of a movie.
+Ditch your boredom by watching any random video snippet from your collection without any manual searching with just one command and binge watch all your favorite collection of fun videos all day! XD
 
-This repository contains code which can be helpful in selecting random episodes, or snippets to play while binge-watching. XD  ^__^
+*This repository contains code which can be helpful in selecting random episodes, or snippets to play while binge-watching.*
 
-Note: The episodes must be downloaded in the local machine.
+Note: The episodes must previously be downloaded in the local machine.
 
 >Download Big Files From Internet [Programming Style]: [Check this One!](https://github.com/noviicee/Download-Files)
